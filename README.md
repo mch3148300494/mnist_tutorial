@@ -21,11 +21,11 @@ Code tested on following environments, other version should also work:
 * keras 2.1.2
 
 # accruacy
-Q,train accruacy,test accruacy
-* Q1,97.50%,89.70%
-* Q2,81.55%,81.20%
-* Q3,97.83%,86.80%
-* Q4,96.97%,87.20%
-* Q5,98.91%,98.09%
+Q, train accruacy, test accruacy
+* Q1, 97.50%, 89.70%
+* Q2, 81.55%, 81.20%
+* Q3, 97.83%, 86.80%
+* Q4, 96.97%, 87.20%
+* Q5, 98.91%, 98.09%
 # For students from SJTU
 Please read [HEAR](EE369.md).
