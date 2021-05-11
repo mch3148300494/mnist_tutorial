@@ -20,5 +20,12 @@ Code tested on following environments, other version should also work:
 * pytorch 0.4.1
 * keras 2.1.2
 
+# accruacy
+    train accruacy     test accruacy
+Q1
+Q2
+Q3
+Q4
+Q5
 # For students from SJTU
 Please read [HEAR](EE369.md).
