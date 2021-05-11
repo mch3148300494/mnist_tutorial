@@ -21,7 +21,7 @@ Code tested on following environments, other version should also work:
 * keras 2.1.2
 
 # frame
-* 网络采用两个卷积层和两个全连接层，激活函数采用relu，optimizer采用SGD，criterion采用CrossEntropyLoss
+网络采用两个卷积层和两个全连接层，激活函数采用relu，optimizer采用SGD，criterion采用CrossEntropyLoss
 
 # accruacy
 Q, train accruacy, test accruacy
