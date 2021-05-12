@@ -1,5 +1,6 @@
 # mnist_tutorial
 A tutorial for MNIST handwritten digit classification using sklearn and PyTorch.
+sklearn ：0.24.1
 
 # frame
 网络采用两个卷积层和两个全连接层，激活函数采用relu，optimizer采用SGD，criterion采用CrossEntropyLoss
